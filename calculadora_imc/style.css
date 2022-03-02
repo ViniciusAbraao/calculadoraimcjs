@@ -1,0 +1,28 @@
+input{
+    margin-right: 12px;
+}
+#resultado{
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: justify;
+}
+body{
+    background-color: #D3D3D3;;
+}
+#nome{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+#peso{
+    margin-bottom: 10px;
+}
+#altura{
+    margin-bottom: 20px;
+}
+#calcular{
+    margin-bottom: 10px;
+}
+#resultado{
+    color: #696969;
+}
+
